@@ -5,7 +5,7 @@
             backgroundSize: 'cover',
             backgroundPosition: 'center',
             backgroundRepeat: 'no-repeat',
-            transform: `translateX(${tilt*50}px) translateY(${roll*50}px)`
+            transform: `translateX(${tilt*10}px) translateY(${roll*10}px)`
         }"
         class="fixed pointer-events-none brightness-50 h-[130vh] w-[130vw] -top-[20%] -left-[20%]">
         
@@ -14,9 +14,10 @@
 
 <script setup lang="ts">
 defineProps<{
-    src:string
+    src:string,
+    tilt:number,
+    roll:number
 }>();
 
-const container = ref(null)
-const { tilt, roll, source } = useParallax(container)
+
 </script>
