@@ -9,8 +9,5 @@ export default defineNuxtConfig({
     "@nuxt/content",
     "@nuxt/icon"
   ],
-  ssr: false,
-  experimental: {
-    viewTransition: true
-  }
+  ssr: false
 })

@@ -7,7 +7,7 @@
             backgroundRepeat: 'no-repeat',
             transform: `translateX(${tilt*10}px) translateY(${roll*10}px)`
         }"
-        class="fixed pointer-events-none brightness-50 h-[130vh] w-[130vw] -top-[20%] -left-[20%]">
+        class="!opacity-100 fixed pointer-events-none brightness-50 h-[130vh] w-[130vw] -top-[20%] -left-[20%]">
         
     </div>
 </template>

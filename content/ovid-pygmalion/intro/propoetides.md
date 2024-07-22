@@ -1,9 +1,9 @@
 ---
 title: The Propoetides
-image: https://static.vecteezy.com/system/resources/thumbnails/034/925/406/small_2x/ai-generated-shorthair-cat-on-transparent-background-image-png.png
-icon: game-icons:personz
-outer_style: left-4 bottom-0
-popover_style: bottom-1/2 translate-y-1/2 -right-[60%]
+image: /prop.png
+icon: game-icons:person
+outer_style: left-4 -bottom-32 scale-50
+popover_style: bottom-1/2 translate-y-1/2 -right-[60%] scale-150 z-30
 ---
 **The Propoetides** are a group of girls who reside in Amathus, a city dedicated to the goddess Venus.
 <!--more-->
