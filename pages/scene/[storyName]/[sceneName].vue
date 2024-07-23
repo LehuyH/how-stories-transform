@@ -22,11 +22,11 @@
                 <Icon name="heroicons-outline:chevron-right"
                     class="text-black group-hover:text-white transition-colors" />
             </button>
-            <button v-if="up" @click="up"
+            <button v-if="nextStory" @click="up"
                 class="absolute z-10 left-0 top-0 w-screen p-4 group hover:bg-gradient-to-b from-black to-transparent transition-colors bg-transparent">
                 <Icon name="heroicons-outline:chevron-up" class="text-black group-hover:text-white transition-colors" />
             </button>
-            <button v-if="down" @click="down"
+            <button v-if="prevStory" @click="down"
                 class="absolute z-10 right-0 bottom-0 w-screen p-4 group hover:bg-gradient-to-t from-black to-transparent transition-colors bg-transparent">
                 <Icon name="heroicons-outline:chevron-down"
                     class="text-black group-hover:text-white transition-colors" />
