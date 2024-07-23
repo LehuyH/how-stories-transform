@@ -11,7 +11,7 @@
                     </button>
                 <template v-if="symbol">
                     <h1 class="md:text-4xl text-3xl font-bold flex items-center gap-2">
-                       <Icon :name="symbol.icon"/> <span>{{ symbol.title }}</span>
+                       <Icon class="shrink-0" :name="symbol.icon"/> <span>{{ symbol.title }}</span>
                     </h1>
                     <p class="md:text-xl text-lg">
                         {{ symbol.description }}

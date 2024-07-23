@@ -40,7 +40,7 @@ const { sceneName, storyName } = useRoute().params as Record<string,string>
 
 const { data:symbols } = await useAsyncData(`symbol-${sceneName}-${storyName}`,()=>
     queryContent(`/${storyName}/${sceneName}`)
-    .only(['title', 'image','icon','_path','description','popover_style','outer_style'])
+    .only(['title', 'image','icon','_path','description','popover_style','outer_style','no_popover'])
     .where({
         headless:{
             $not: true  

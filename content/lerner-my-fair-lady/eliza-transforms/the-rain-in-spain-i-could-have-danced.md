@@ -1,0 +1,10 @@
+---
+title: The Rain In Spain & I Could Have Danced All Night
+image: /l-hande.png
+icon: game-icons:musical-notes
+outer_style: left-[10%] bottom-[10%] scale-125
+popover_style: bottom-1/2 translate-y-1/2  z-30 scale-75
+---
+Lerner wanted to use music and lyrics to "catch the drama at the hilltops". This approach is demonstrated in the songs "The Rain In Spain" and "I Could Have Danced All Night".
+<!--more-->
+When Eliza finally correctly pronounces her practice sentences, Higgins, Pickering, and Eliza burst into song, celebrating her achievement by singing "By George, she's got it!" This moment of celebration seamlessly transitions into song, catching the audience by surprise and boosting the scene's energy. Following this excitement they head to bed. Eliza, still energized, sings that she "couldn't go to bed". She hints at a budding romance, expressing how her "heart took flight" when Higgins "began to dance" with her after she nailed her pronunciation :inline-cite[Lerner]. These back-to-back songs serve different purposes: the first is a pure celebration shared by all three characters, while the second is a deeper look into Eliza's emotions. These songs are entirely character-focused, particularly for Eliza. They not only mark her progress towards becoming a lady through mastering speech but also hint at the fulfillment of her desire for love. The songs help shift the mood from the previous conflicts to a happier tone, preparing the audience for Eliza's upcoming test. Moreover, these musical moments develop the romantic tension between Higgins and Eliza, an aspect that Shaw's play largely glosses over. Adding these scenes and songs lets Lerner continue his character-focused development of the musical, expanding on themes and relationships that were less prominent in Shaw's original work.
