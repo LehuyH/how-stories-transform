@@ -3,7 +3,7 @@ title: Pygmalion
 image: /py1.webp
 icon: game-icons:person
 outer_style: right-8 bottom-0
-popover_style: bottom-1/2 translate-y-1/2 -left-[80%]
+popover_style: bottom-1/2 translate-y-1/2 -left-[200%]
 ---
 Pygmalion, a Cyprian sculptor, witnesses the Propoetides' new behavior firsthand and is utterly "offended" by what he sees. 
 <!--more-->

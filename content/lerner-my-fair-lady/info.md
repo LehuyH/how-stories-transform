@@ -1,0 +1,5 @@
+---
+title: My Fair Lady
+---
+# My Fair Lady
+In 1952, writer Alan Jay Lerner received an unexpected phone call from a producer. Over dinner, the producer asked Lerner if he would be interested in writing a musical based on George Bernard Shaw's play Pygmalion. Lerner was "drawn to Pygmalion" and he accepted the job. He teamed up with his long-time creative partner, Fritz Loewe, and together they began writing what would eventually become My Fair Lady. This musical adaptation builds on top of Shaw's Pygmalion and Ovid's myth on Pygmalion and Galatea. However, Lerner and Loewe's motivations differed significantly from their predecessors. While Ovid's original tale reinforced societal beliefs and Shaw's play critiqued them, Lerner and Loewe had a different goal in mind. Their primary goal was to create an entertaining musical that honored Shaw's vision while increasing its accessibility and appeal. They wanted to take the essence of Shaw's social commentary and infuse it with the showmanship and spectacle expected of a Broadway musical. 

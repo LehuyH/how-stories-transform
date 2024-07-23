@@ -4,6 +4,17 @@
   </div>
 </template>
 
+<script setup lang="ts">
+const showControls = useState('showControls',()=>false)
+const router = useRouter()
+router.afterEach((_,from)=>{
+  if(from.fullPath === '/'){
+    showControls.value = true
+  }
+})
+
+</script>
+
 <style>
 .fadeIn {
   animation: fadeIn 0.5s ease-in-out;

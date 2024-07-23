@@ -1,0 +1,5 @@
+---
+title: Shaw's Pygmalion
+---
+# Shaw's Pygmalion
+George Bernard Shaw's play "Pygmalion", written in 1913, is partially inspired by the Pygmalion myth in book ten of Ovid's Metamorphoses. While the play shares common themes of transformation and gender dynamics, Shaw's iteration reimagines the story in an early twentieth-century British setting. This new setting introduces more layers to the story including a commentary on the English class system. While many of the character archetypes and symbols from Ovid's poem reappear in Shaw's interpretation, they are used with greater nuance. Unlike the original myth, which directly upholds Roman values, Shaw's version is far more critical of the social dynamics in Britain at the time. Shaw's play demonstrates how authors often repurpose familiar stories to serve new purposes, in this case to address contemporary issues important to the author.
