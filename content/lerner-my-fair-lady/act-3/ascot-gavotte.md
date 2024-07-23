@@ -1,6 +1,6 @@
 ---
 title: Ascot Gavotte
-image: /l-e3.png
+image: /l-e3.webp
 icon: game-icons:musical-notes
 outer_style: right-[25%] bottom-[7%] scale-125
 popover_style: bottom-1/2 translate-y-1/2 z-30 scale-75 -left-[50%]

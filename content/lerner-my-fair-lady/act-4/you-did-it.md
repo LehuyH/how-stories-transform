@@ -1,6 +1,6 @@
 ---
 title: You Did It
-image: /l-hig3.png
+image: /l-hig3.webp
 icon: game-icons:musical-notes
 outer_style: left-[35%] -bottom-[10%] scale-75
 popover_style: bottom-1/2 translate-y-1/2 scale-125 z-30

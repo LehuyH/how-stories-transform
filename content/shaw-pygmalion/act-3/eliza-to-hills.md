@@ -1,6 +1,6 @@
 ---
 title: Eliza To The Hills
-image: /elzhills.png
+image: /elzhills.webp
 icon: game-icons:chat-bubble
 outer_style: right-0 bottom-0
 popover_style: top-0 z-30

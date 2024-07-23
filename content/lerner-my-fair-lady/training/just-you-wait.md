@@ -1,6 +1,6 @@
 ---
 title: Just You Wait
-image: /l-e2.png
+image: /l-e2.webp
 icon: game-icons:musical-notes
 outer_style: left-[25%] bottom-[10%] scale-125
 popover_style: bottom-1/2 translate-y-1/2  z-30 scale-75

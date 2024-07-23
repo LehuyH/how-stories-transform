@@ -1,6 +1,6 @@
 ---
 title: Eliza To Higgins
-image: /do2.png
+image: /do2.webp
 icon: game-icons:chat-bubble
 outer_style: left-0 bottom-0 scale-50
 popover_style: -top-[70%] z-30 scale-[150%]

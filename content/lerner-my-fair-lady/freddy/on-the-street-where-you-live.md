@@ -1,6 +1,6 @@
 ---
 title: On the Street Where You Live
-image: /l-f1.png
+image: /l-f1.webp
 icon: game-icons:musical-notes
 outer_style: left-[25%] bottom-[10%] scale-125
 popover_style: bottom-1/2 translate-y-1/2 -right-[60%]  z-30 scale-75

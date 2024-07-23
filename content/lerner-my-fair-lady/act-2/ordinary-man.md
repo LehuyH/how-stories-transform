@@ -1,6 +1,6 @@
 ---
 title: I'm an Ordinary Man
-image: /l-hig2.png
+image: /l-hig2.webp
 icon: game-icons:musical-notes
 outer_style: right-[15%] bottom-0
 popover_style: bottom-1/2 translate-y-1/2  z-30

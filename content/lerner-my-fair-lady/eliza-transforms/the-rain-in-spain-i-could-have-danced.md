@@ -1,6 +1,6 @@
 ---
 title: The Rain In Spain & I Could Have Danced All Night
-image: /l-hande.png
+image: /l-hande.webp
 icon: game-icons:musical-notes
 outer_style: left-[10%] bottom-[10%] scale-125
 popover_style: bottom-1/2 translate-y-1/2  z-30 scale-75

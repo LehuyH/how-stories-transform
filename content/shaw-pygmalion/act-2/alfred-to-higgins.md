@@ -1,6 +1,6 @@
 ---
 title: Alfred To Higgins
-image: /alfred1.png
+image: /alfred1.webp
 icon: game-icons:chat-bubble
 outer_style: left-[10%] bottom-0 scale-50
 popover_style: -top-[70%] z-30 scale-[150%]

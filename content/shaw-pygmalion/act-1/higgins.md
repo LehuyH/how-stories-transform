@@ -1,6 +1,6 @@
 ---
 title: Henry Higgins
-image: /hi1.png
+image: /hi1.webp
 icon: game-icons:person
 outer_style: left-[15%] bottom-0
 popover_style: bottom-1/2 translate-y-1/2  z-30

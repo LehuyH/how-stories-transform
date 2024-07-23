@@ -1,6 +1,6 @@
 ---
 title: Alfred To Higgins
-image: /altoh.png
+image: /altoh.webp
 icon: game-icons:chat-bubble
 outer_style: left-[16%] bottom-0 scale-50
 popover_style: bottom-1/2 translate-y-1/2 z-30 scale-[150%]

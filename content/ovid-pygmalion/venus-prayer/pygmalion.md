@@ -1,6 +1,6 @@
 ---
 title: Prayer to Venus
-image: /py3.png
+image: /py3.webp
 icon: game-icons:prayer
 outer_style: left-[60%] bottom-0
 popover_style: bottom-1/2 translate-y-1/2 -left-[100%]

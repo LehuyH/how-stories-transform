@@ -1,6 +1,6 @@
 ---
 title: Eliza Moves On
-image: /elh.png
+image: /elh.webp
 icon: game-icons:chat-bubble
 outer_style: left-[50%] -translate-x-1/2 bottom-0
 popover_style: top-0 z-30

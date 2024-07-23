@@ -1,6 +1,6 @@
 ---
 title: Interaction with Galatea
-image: /gem.png
+image: /gem.webp
 icon: game-icons:hearts
 outer_style: left-[32%] bottom-[13%] z-20
 popover_style: bottom-1/2 translate-y-1/2 -right-[120%]

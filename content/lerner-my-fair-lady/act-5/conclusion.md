@@ -1,6 +1,6 @@
 ---
 title: Lerner's New Conclusion
-image: /l-e5.png
+image: /l-e5.webp
 icon: game-icons:hearts
 outer_style: right-[20%] bottom-0
 popover_style: bottom-1/2 translate-y-1/2  -left-[140%] z-30

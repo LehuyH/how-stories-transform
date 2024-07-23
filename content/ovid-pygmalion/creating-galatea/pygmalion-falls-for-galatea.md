@@ -1,6 +1,6 @@
 ---
 title: Pygmalion Falls for Galatea
-image: /py2.png
+image: /py2.webp
 icon: game-icons:hearts
 outer_style: left-[50%] bottom-0
 popover_style: bottom-1/2 translate-y-1/2 -right-[120%]

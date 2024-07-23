@@ -1,6 +1,6 @@
 ---
 title: Colonel Pickering
-image: /pi1.png
+image: /pi1.webp
 icon: game-icons:person
 outer_style: left-4 bottom-0
 popover_style: bottom-1/2 translate-y-1/2  z-30

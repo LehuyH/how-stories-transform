@@ -1,6 +1,6 @@
 ---
 title: Galatea
-image: /ga.png
+image: /ga.webp
 icon: game-icons:person
 outer_style: left-[30%] bottom-0
 popover_style: bottom-1/2 translate-y-1/2 -left-[100%]

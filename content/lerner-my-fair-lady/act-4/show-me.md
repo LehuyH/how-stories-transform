@@ -1,6 +1,6 @@
 ---
 title: Show Me
-image: /l-e4.png
+image: /l-e4.webp
 icon: game-icons:musical-notes
 outer_style: left-0 bottom-0
 popover_style: bottom-1/2 translate-y-1/2  z-30

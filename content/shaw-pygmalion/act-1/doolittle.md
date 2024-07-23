@@ -1,6 +1,6 @@
 ---
 title: Eliza Doolittle
-image: /do1.png
+image: /do1.webp
 icon: game-icons:person
 outer_style: right-4 bottom-0
 popover_style: bottom-1/2 translate-y-1/2  z-30

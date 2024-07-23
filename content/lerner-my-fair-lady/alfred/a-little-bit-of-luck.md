@@ -1,6 +1,6 @@
 ---
 title: With a Little Bit O' Luck
-image: /l-a1.png
+image: /l-a1.webp
 icon: game-icons:musical-notes
 outer_style: left-[15%] top-[20%] scale-125
 popover_style: bottom-1/2 translate-y-1/2  z-30 scale-75

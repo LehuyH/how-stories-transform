@@ -1,6 +1,6 @@
 ---
 title: The Propoetides
-image: /prop.png
+image: /prop.webp
 icon: game-icons:person
 outer_style: left-4 -bottom-32 scale-50
 popover_style: bottom-1/2 translate-y-1/2 -right-[60%] scale-[150%] z-30

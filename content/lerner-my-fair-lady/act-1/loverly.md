@@ -1,6 +1,6 @@
 ---
 title: Wouldn't It Be Loverly
-image: /l-e1.png
+image: /l-e1.webp
 icon: game-icons:musical-notes
 outer_style: right-0 bottom-0
 popover_style: bottom-1/2 translate-y-1/2  z-30

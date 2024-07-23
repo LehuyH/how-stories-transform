@@ -1,6 +1,6 @@
 ---
 title: I've Grown Accustomed to Her Face
-image: /l-hig4.png
+image: /l-hig4.webp
 icon: game-icons:musical-notes
 outer_style: left-0 -bottom-[10%] scale-75
 popover_style: bottom-1/2 translate-y-1/2 scale-125 -top-[140%] z-30

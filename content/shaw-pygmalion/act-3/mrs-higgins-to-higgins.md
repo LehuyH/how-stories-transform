@@ -1,6 +1,6 @@
 ---
 title: Mrs. Higgins To Higgins
-image: /mrsh.png
+image: /mrsh.webp
 icon: game-icons:chat-bubble
 outer_style: -left-[10%] bottom-0 scale-[60%]
 popover_style: top-0 z-30 scale-[160%]
