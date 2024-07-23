@@ -14,7 +14,7 @@
                 <HeadlessPopoverPanel :class="`absolute w-[24rem] z-10 ${popover_style}`">
                     <div class="bg-white rounded p-8 shadow-xl prose">
                         <h2 class="flex items-center gap-2">
-                            <Icon :name="icon" />
+                            <Icon :name="icon" class="shrink-0" />
                             <span>{{ title }}</span>
                         </h2>
                         <p>
@@ -43,7 +43,8 @@ defineProps<{
     icon:string,
     _path:string,
     popover_style:string,
-    outer_style:string
+    outer_style:string,
+    no_popover?:boolean
 }>()
 </script>
 
