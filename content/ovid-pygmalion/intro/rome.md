@@ -2,7 +2,7 @@
 title: Rome In Ovid's Time
 image: https://upload.wikimedia.org/wikipedia/commons/9/99/Statue-Augustus_transparent_background.png
 icon: game-icons:backward-time
-outer_style: right-12 -translate-x-1/2 scale-50 -bottom-12 z-0
+outer_style: right-[6%] -translate-x-1/2 scale-50 -bottom-[7%] z-0
 popover_style: -top-[100%] translate-y-1/2 scale-[150%]
 ---
 Ovid completed Metamorphoses by 8 CE, **well into the reign of Roman Emperor Augustus**. At the time, Augustus was ushering in a new era of religious revival as he began to re-establish "traditional social rules and religious rituals" :inline-cite[The Roman Empire].
