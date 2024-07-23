@@ -17,9 +17,7 @@ export default defineNuxtConfig({
     "@nuxt/content",
     "@nuxt/icon"
   ],
-  ssr: true,
   nitro: {
-    preset: "node-server",
     prerender:{
       routes: Object.keys(map).flatMap(story=>map[story].map(scene=>`/scene/${story}/${scene}`))
     }
