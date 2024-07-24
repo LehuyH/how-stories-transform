@@ -22,4 +22,9 @@ export default defineNuxtConfig({
       routes: Object.keys(map).flatMap(story=>map[story].map(scene=>`/scene/${story}/${scene}`))
     }
   },
+  content: {
+    markdown: {
+      anchorLinks: false,
+    }
+  }
 })
