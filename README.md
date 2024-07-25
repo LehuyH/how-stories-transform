@@ -1,75 +1,22 @@
-# Nuxt 3 Minimal Starter
+# How Do Stories Transform?
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+In literature, it is common for stories to be later **interpreted, adapted, and transformed by other authors.**
 
-## Setup
+This repository contains the code for the website [https://pygmalion.lehuy.dev/](https://pygmalion.lehuy.dev/) which explores how the story of **Pygmalion & Galatea** was transformed by Shaw's **Pygmalion** and Lerner's **My Fair Lady**.
 
-Make sure to install the dependencies:
+## Get Started With A Story Below 👇
 
-```bash
-# npm
-npm install
+[Introduction (Start Here)](https://pygmalion.lehuy.dev/)
 
-# pnpm
-pnpm install
+[Explore the Pygmalion & Galatea myth](https://pygmalion.lehuy.dev/scene/ovid-pygmalion/intro?start)
 
-# yarn
-yarn install
+[Explore Shaw's Pygmalion](https://pygmalion.lehuy.dev/scene/shaw-pygmalion/act-1?start)
 
-# bun
-bun install
-```
+[Explore Lerner's My Fair Lady](https://pygmalion.lehuy.dev/scene/lerner-my-fair-lady/act-1?start)
 
-## Development Server
+## Resources
 
-Start the development server on `http://localhost:3000`:
+- [Controls](https://pygmalion.lehuy.dev/content/controls)
+- [Image Credits](https://pygmalion.lehuy.dev/content/credits)
 
-```bash
-# npm
-npm run dev
-
-# pnpm
-pnpm run dev
-
-# yarn
-yarn dev
-
-# bun
-bun run dev
-```
-
-## Production
-
-Build the application for production:
-
-```bash
-# npm
-npm run build
-
-# pnpm
-pnpm run build
-
-# yarn
-yarn build
-
-# bun
-bun run build
-```
-
-Locally preview production build:
-
-```bash
-# npm
-npm run preview
-
-# pnpm
-pnpm run preview
-
-# yarn
-yarn preview
-
-# bun
-bun run preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+Powered by [Nuxt 3](https://nuxt.com/)!
